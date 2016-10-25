@@ -1,0 +1,12 @@
+<!--
+  ~ Copyright (c) 2016. Deveryware Iberia SA. All rights reserved.
+  -->
+
+<resources>
+    <string name="app_name">NoteaconsDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_custom_action">customActionActivity</string>
+    <string name="home_refresh_data_button">Refresh Data</string>
+    <string name="custom_close_button">Close</string>
+    <string name="custom_show_textview">CUSTOM CALLBACK LAUNCHED. BACK TO RETURN</string>
+</resources>

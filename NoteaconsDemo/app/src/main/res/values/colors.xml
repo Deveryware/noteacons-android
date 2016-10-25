@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2016. Deveryware Iberia SA. All rights reserved.
+  -->
+
+<resources>
+    <color name="colorPrimary">#2ea836</color>
+    <color name="colorPrimaryDark">#2EA836</color>
+    <color name="colorAccent">#595d65</color>
+</resources>
