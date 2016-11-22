@@ -30,7 +30,7 @@ Add the dependecy in your app build.gradle:
 
 ```
   dependencies {
-      compile 'org.bitbucket.deverywareiberia:sdk-android:v1.2.0'
+      compile 'org.bitbucket.deverywareiberia:sdk-android:v1.3.0'
   }
 ```
 
